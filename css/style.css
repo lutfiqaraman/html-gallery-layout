@@ -28,8 +28,6 @@
     color: #ffffff;
 }
 
-
-
 /* Typography
 ------------------------------------ */
 
@@ -46,12 +44,9 @@ h2 {
 /* Header & Navigation
 ------------------------------------ */
 
-.header {
-    background: #1b6d85;
-}
-
 header.main_header {
     padding: 1% 0;
+    background: #1b6d85;
 }
 
 .logo {
