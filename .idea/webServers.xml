@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="afa461a0-fced-4559-b0e6-35b60b2bd8d3" name="Godaddy" url="http://lutfiqaraman.com">
+        <fileTransfer host="lutfiqaraman.com" port="21" username="lutfiq">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
