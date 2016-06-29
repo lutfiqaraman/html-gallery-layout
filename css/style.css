@@ -74,7 +74,7 @@ img {
     max-width: 100%;
 }
 
-.Gallery > img {
+.Gallery > a > img {
     -webkit-box-shadow: 19px 26px 31px 0 rgba(124,126,129,1);
     -moz-box-shadow: 19px 26px 31px 0 rgba(124,126,129,1);
     box-shadow: 19px 26px 31px 0 rgb(124, 126, 129);
